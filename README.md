@@ -1,4 +1,3 @@
-# script
 日常使用的脚本
 
 - hydown.py 自动备份hypothesis的标注
